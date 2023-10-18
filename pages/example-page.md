@@ -9,3 +9,5 @@ permalink: /example-page/
 ![](/images/apple123.png)
 
 ![](/images/apear234.jpg)
+
+![](/images/apple1.png)
